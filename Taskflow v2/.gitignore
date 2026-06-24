@@ -1,6 +1,0 @@
-__pycache__/
-*.__pyc
-lifeos.db
-.env
-.DS_Store
-.vscode/
